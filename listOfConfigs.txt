@@ -1,0 +1,6 @@
+.inputrc
+.bash_functions
+.bash_profile
+.inputrc
+.vimrc
+.tmux.conf
