@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-filename="listOfConfigs.txt"
+filename="listOfConfigs.conf"
 
 while read -r line; do
     name="$line"
